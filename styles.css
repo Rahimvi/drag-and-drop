@@ -1,0 +1,38 @@
+.container {
+  margin-top: 50px;
+}
+
+.question-container {
+  width: 40%;
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+.box-container {
+  width: 50%;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-left: 10px;
+  text-align: center;
+  align-content: center;
+}
+.box {
+  width: 400px;
+  height: 200px;
+  margin-top: 10px;
+  border: 1px solid #ccc;
+}
+
+/* #question-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+}
+
+.question-item {
+  margin-bottom: 10px;
+}
+
+.question-item:hover {
+  background-color: #f4f4f4;
+} */
